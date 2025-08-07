@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **CSS Sticky Navigation Menu Project** demonstrates how to create a visually appealing and functional sticky navigation menu using HTML and CSS. This project is designed as a reference or starting point for developers who want to implement a fixed navigation bar that remains visible while scrolling through a webpage.
+The CSS Sticky Navigation Menu Project demonstrates how to create a visually appealing and functional sticky navigation menu using HTML and CSS. Its a simple and customisable project built for demonstration and educational purpose. This project is designed as a reference or starting point for developers who want to implement a fixed navigation bar that remains visible while scrolling through a webpage.
 
 ## Features
 
